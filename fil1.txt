@@ -6,6 +6,7 @@ sf
 sd
 fs
 
+<<<<<<< HEAD
 
 dfdsfsdfdfdsf
 dsf
@@ -17,3 +18,6 @@ sdfsd
 
 
 fil 1 ändrat i master
+=======
+denna ändrat i branschen min-lokala-test
+>>>>>>> min-lokala-test
