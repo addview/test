@@ -6,3 +6,4 @@ sf
 sd
 fs
 
+denna ändrat i branschen min-lokala-test
